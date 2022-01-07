@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-### My Trophies
+### My Github Statistics
 
 <p align="center">
-<img align="" height='150px' src="https://github-profile-trophy.vercel.app/?username=feheme&theme=onedark&column=7&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy" alt="feheme" />
-</p> 
+<img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=feheme&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="feheme" /><img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=feheme&hide_title=false&layout=compact&theme=gotham&count_private=true" />
+</p>
+<br>
