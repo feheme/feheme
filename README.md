@@ -12,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+### My Trophies
+
+<p align="center">
+<img align="" height='150px' src="https://github-profile-trophy.vercel.app/?username=feheme&theme=onedark&column=7&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy" alt="feheme" />
+</p> 
