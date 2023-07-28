@@ -24,15 +24,5 @@
 
 
 
-### Languages and Tools:
 
-<p align="center">
-  ><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-
-<img src="https://giphy.com/embed/XAxylRMCdpbEWUAvr8" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/devrock-js-edr-escueladevrock-XAxylRMCdpbEWUAvr8">via GIPHY</a></p>
-  
-  <br><br>
-
- 
-</p>
 
