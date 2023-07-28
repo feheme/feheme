@@ -8,7 +8,7 @@
 
 
 - 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning Python, DeepLearning, AI, ML
+- 🌱 I’m currently learning ASP.NET CORE
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: cyldmrcfhm@gmail.com
 
