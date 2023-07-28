@@ -27,7 +27,7 @@
 ### Languages and Tools:
 
 <p align="center">
-  ><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
+  ><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"> <div class="tenor-gif-embed" data-postid="27057239" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/visual-studio-code-gif-27057239">Visual Studio Code Sticker</a>from <a href="https://tenor.com/search/visual+studio+code-stickers">Visual Studio Code Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> <br><br>
 
  
 </p>
