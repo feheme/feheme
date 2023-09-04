@@ -3,7 +3,7 @@
  - 🌱 I’m currently learning ASP.NET CORE
  - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: cyldmrcfhm@gmail.com
-##  [![](https://visitcount.itsvg.in/api?id=feheme&icon=5&color=1)](https://visitcount.itsvg.in)
+##  ![](https://visitcount.itsvg.in/api?id=feheme&icon=5&color=1)
 
 
 
